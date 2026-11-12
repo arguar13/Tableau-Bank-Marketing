@@ -1,0 +1,17 @@
+# Raw data downloaded by etl_pipeline.py
+bank_raw_data.zip
+bank-additional/
+__MACOSX/
+
+# Tableau temporary and recovery files
+~*.twbr
+*.hyper
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Blog drafts
+blog/
